@@ -1,1 +1,1 @@
-# ActiveTransfer assets
+# ActiveTransfer server assets
